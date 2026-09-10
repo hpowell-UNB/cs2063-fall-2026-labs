@@ -9,7 +9,7 @@ NOTES:
 ## Getting Started
 
 ### Android Studio
-* The code examples are built against and run in Download Android Studio Quail 3 (2026.1.3 Patch 1)
+* The code examples are built against and run in Download Android Studio Quail 4 (2026.1.4)
 * Should you use a different version you will be prompted to update the Gradle plugin used
    
 ### Android SDK
