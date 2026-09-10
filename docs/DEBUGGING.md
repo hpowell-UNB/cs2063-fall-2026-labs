@@ -41,13 +41,13 @@ NOTE:
 
 _Using Android x86 Lab OS_
 
-The lab computers do not have an Android Emulator installed by default.  They can be accessed through another virtual machine.
+The lab computers do not have an Android Emulator installed by default.  Instead they use a combination of the IDE virtual machine and a separate emulator OS VM. 
 
-1. Launch Android Studio VM 
+1. Launch Android Studio IDE VM 
 2. Launch Android OS VM
-3. In the launch Android studio VM open a terminal
+3. In the Android Studio IDE VM open a terminal
 4. Enter the command 'adb connect 10.0.2.4:5555'
-    * The terminal should respond with 'connected to 10.0.2.4:5555'
+    * The terminal should respond with '_connected to 10.0.2.4:5555_'
     * Android studio should now be able to find the emulated device. 
 
 NOTE:
