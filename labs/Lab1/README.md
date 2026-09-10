@@ -37,7 +37,7 @@ The lab computers do not have the Android Studio IDE installed by default.  Howe
 	* Name: Lab 1 Hello World
 	* Package name: ca.unb.mobiledev.lab1
 	* Language: Kotlin
-	* Minimum API Level: API 29 ("Q"; Android 10.0)
+	* Minimum API Level: API 26 ("Oreo"; Android 8.0)
 	* Leave the _Build configuration language_ option as "Kotlin DSL (build.gradle.kts)"
 * → Click **Finish**
 	* Loading the application for the first time takes a while to run; please be patient
