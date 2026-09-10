@@ -97,7 +97,7 @@ With the project created let's start it for the first time using the auto genera
 
 **Deliverable 1**
 
-Take a screenshot of your app running (on any device or emulator).  Refer to the [Debugging and Testing](../docs/DEBUGGING.md) document for options and setup instructions.
+Take a screenshot of your app running (on any device or emulator).  Refer to the [Debugging and Testing](../../docs/DEBUGGING.md) document for options and setup instructions.
 
 ### Layout Editor
 
