@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab 2 Activity Lifecycle</string>
+    <string name="activity_one">Activity One</string>
+    <string name="activity_two">Activity Two</string>
+    <string name="on_create_message">onCreate() calls: %1$d</string>
+    <string name="on_start_message">onStart() calls: %1$d</string>
+    <string name="on_resume_message">onResume() calls: %1$d</string>
+    <string name="on_restart_message">onRestart() calls: %1$d</string>
+</resources>
