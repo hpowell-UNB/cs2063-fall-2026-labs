@@ -137,7 +137,7 @@ Complete TODO 3.  See the documentation for [startActivity](https://developer.an
 However, at this stage we don’t have a second activity class yet (as indicated by the red ActivityTwo in our Intent statement) to use.  To fix this:
 1. Right click _mobiledev.unb.ca.lab2activitylifecycle_ under the kotlin_+java app project structure folder
 2. Select New → Activity -> Empty Views Activity
-	* For the class name use __ActivityTwo__
+	* In the _ActivyityName_ field enter  __ActivityTwo__
 	* Unselect the option _Generate a Layout File_ (a sample layout file is already included in the project skeleton) 
 	* Just leave this class empty for now. We'll finish it later.
 	* Notice the red problem statement is now resolved.
@@ -188,8 +188,8 @@ Complete TODO 7 following the initial example.  One of the assignments has been 
 
 Complete TODO 8.
 * Increment each count variable in its respective lifecycle method call ```onCreate()```, ```onStart()```, ```onResume()```, ```onRestart()```
-* A call to the ```updateCounts()``` method modified above (in TODO 7) has already been included in each activity lifecycle method we are overriding
-	* Make sure you increment the counts before the ```updateCounts()``` method is called or else the new value will not be reflected in the text update!
+* A call to the ```updateCountsDisplay()``` method modified above (in TODO 7) has already been included in each activity lifecycle method we are overriding
+	* Make sure you increment the counts before the ```updateCountsDisplay()``` method is called or else the new value will not be reflected in the text update!
 
 **Task 9**
 
