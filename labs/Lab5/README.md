@@ -90,6 +90,6 @@ Create a document with the following items:
   * Show the working app running on an emulator to the instructor or TA for signoff.
   * No files need to be submitted.
 * LABS COMPLETED OUTSIDE OF CLASS: 
-  * Submit `MainActivity.kt`, `DetailActivity.kt`, `JsonUtils.kt`, `LoadDataTask.kt`, and `CourseListAdapter.kt` along with your answers to the writeup task to the Lab5 drop box folder on D2L 
+  * Submit `MainActivity.kt`, `DetailActivity.kt`, `JsonUtils.kt`, `LoadDataTask.kt`, `CourseListAdapter.kt`, and `activity_detail.xml` along with your answers to the writeup task to the Lab5 drop box folder on D2L 
 
 * Keep a copy of your project work and answers for future reference
