@@ -36,8 +36,6 @@ class CourseListAdapter(
         fun bind(course: Course) {
             // TODO 2
             //  Set the text for TextViews to use the id and name of the course
-            courseIdTextView.text = course.id
-            courseNameTextView.text = course.name
 
             // Set the onClickListener to the onRowClicked function using the current course details
             itemView.setOnClickListener { onRowClicked(course) }
