@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Threading Lab</string>
+    <string name="unb_cs_course_listing">UNB CS Course Listing</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_id">Course ID</string>
+    <string name="course_icon">Course Icon</string>
+</resources>
