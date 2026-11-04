@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room Persistence Lab</string>
+    <string name="lbl_item_search">Item Search</string>
+    <string name="search_view_query_hint">Search items…</string>
+    <string name="lbl_add_new_item">Add New Item</string>
+    <string name="dialog_button_add">Add</string>
+    <string name="dialog_button_cancel">Cancel</string>
+    <string name="lbl_item_name">Item Name</string>
+    <string name="lbl_item_number">Item Number</string>
+    <string name="msg_record_added">Record added</string>
+</resources>
