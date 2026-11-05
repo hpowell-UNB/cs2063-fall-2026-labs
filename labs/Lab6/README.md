@@ -79,7 +79,7 @@ To help you get started there is a skeleton project in place which has the follo
     * A `ViewModel` acts as a communication center between the Repository and the UI
       * In our app, this class is used as the bridge between the `MainActivity` class and the `ItemRepository` class
 
-  * `ui/ItemViewModel.kt`
+  * `ui/ItemViewModelFactory.kt`
     * Factory class used to instantiate the ViewModel with constructor elements
 
   * `utils/KeyboardUtils.kt`
