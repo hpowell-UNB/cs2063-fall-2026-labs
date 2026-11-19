@@ -34,7 +34,7 @@ will be familiar to you from previous labs.
 * `models/Event.kt` 
   * Data class which represents represents an event
   
-* `utis/JsonUtils.kt`
+* `utils/JsonUtils.kt`
   * Class used to load the details from the JSON assets file
   * The app will make use of the contents included in an included asset file
 
