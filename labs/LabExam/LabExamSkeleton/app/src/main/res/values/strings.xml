@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Lab Exam</string>
+    <string name="detail_activity">Detail Activity</string>
+    <string name="winter_games_host_listing">Winter Games Host Listing</string>
+    <string name="event_title">Event Title</string>
+    <string name="event_number">Event Number</string>
+    <string name="visited">Visited?</string>
+    <string name="view_wikipedia_entry">View Wikipedia Entry</string>
+    <string name="err_no_web_app_installed">No web application installed</string>
+    <string name="err_no_wikipedia_link">No Wikipedia Link</string>
+    <string name="year">Year</string>
+    <string name="dates">Dates</string>
+    <string name="host_city">Host City</string>
+    <string name="olympic_rings_icon">Olympic Rings Icon</string>
+    <string name="calendar_icon">Calendar Icon</string>
+    <string name="clock_icon">Clock Icon</string>
+</resources>

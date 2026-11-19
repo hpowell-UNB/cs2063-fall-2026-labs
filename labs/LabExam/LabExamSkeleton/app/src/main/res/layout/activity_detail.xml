@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/app_bar_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <com.google.android.material.appbar.MaterialToolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            app:title="@string/detail_activity" />
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <ImageView
+        android:id="@+id/location_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="3dp"
+        android:contentDescription="@string/calendar_icon"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/app_bar_layout"
+        app:srcCompat="@drawable/location" />
+
+    <TextView
+        android:id="@+id/host_city_text_view"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="3dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/host_city"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintStart_toStartOf="@+id/location_icon"
+        app:layout_constraintTop_toBottomOf="@+id/app_bar_layout" />
+
+    <ImageView
+        android:id="@+id/clock_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/clock_icon"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/host_city_text_view"
+        app:srcCompat="@drawable/clock" />
+
+    <TextView
+        android:id="@+id/dates_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="25dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/dates"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        app:layout_constraintStart_toStartOf="@+id/clock_icon"
+        app:layout_constraintTop_toBottomOf="@+id/host_city_text_view" />
+
+    <ImageView
+        android:id="@+id/calendar_icon"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/calendar_icon"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/clock_icon"
+        app:srcCompat="@drawable/calendar" />
+
+    <TextView
+        android:id="@+id/year_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/year"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        app:layout_constraintStart_toStartOf="@+id/calendar_icon"
+        app:layout_constraintTop_toBottomOf="@+id/dates_text_view" />
+
+    <Button
+        android:id="@+id/wiki_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="@string/view_wikipedia_entry"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/calendar_icon" />
+</androidx.constraintlayout.widget.ConstraintLayout>

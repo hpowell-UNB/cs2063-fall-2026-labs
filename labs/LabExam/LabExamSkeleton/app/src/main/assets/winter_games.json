@@ -1,0 +1,193 @@
+{
+  "events": [
+    {
+      "year": "2026",
+      "number": "XXV",
+      "hostCity": "Milan and Cortina d'Ampezzo",
+      "dates": "6–22 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2026_Winter_Olympics"
+    },
+    {
+      "year": "2022",
+      "number": "XXIV",
+      "hostCity": "Beijing",
+      "dates": "4–20 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2022_Winter_Olympics"
+    },
+    {
+      "year": "2018",
+      "number": "XXIII",
+      "hostCity": "Pyeongchang",
+      "dates": "9–25 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2018_Winter_Olympics"
+    },
+    {
+      "year": "2014",
+      "number": "XXII",
+      "hostCity": "Sochi",
+      "dates": "7–23 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2014_Winter_Olympics"
+    },
+    {
+      "year": "2010",
+      "number": "XXI",
+      "hostCity": "Vancouver",
+      "dates": "12–28 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2010_Winter_Olympics"
+    },
+    {
+      "year": "2006",
+      "number": "XX",
+      "hostCity": "Turin",
+      "dates": "10–26 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2006_Winter_Olympics"
+    },
+    {
+      "year": "2002",
+      "number": "XIX",
+      "hostCity": "Salt Lake City",
+      "dates": "8–24 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/2002_Winter_Olympics"
+    },
+    {
+      "year": "1998",
+      "number": "XVIII",
+      "hostCity": "Nagano",
+      "dates": "7–22 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1998_Winter_Olympics"
+    },
+    {
+      "year": "1994",
+      "number": "XVII",
+      "hostCity": "Lillehammer",
+      "dates": "12–27 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1994_Winter_Olympics"
+    },
+    {
+      "year": "1992",
+      "number": "XVI",
+      "hostCity": "Albertville",
+      "dates": "8–23 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1992_Winter_Olympics"
+    },
+    {
+      "year": "1988",
+      "number": "XV",
+      "hostCity": "Calgary",
+      "dates": "13–28 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1988_Winter_Olympics"
+    },
+    {
+      "year": "1984",
+      "number": "XIV",
+      "hostCity": "Sarajevo",
+      "dates": "8–19 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1984_Winter_Olympics"
+    },
+    {
+      "year": "1980",
+      "number": "XIII",
+      "hostCity": "Lake Placid",
+      "dates": "13–24 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1980_Winter_Olympics"
+    },
+    {
+      "year": "1976",
+      "number": "XII",
+      "hostCity": "Innsbruck",
+      "dates": "4–15 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1976_Winter_Olympics"
+    },
+    {
+      "year": "1972",
+      "number": "XI",
+      "hostCity": "Sapporo",
+      "dates": "3–13 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1972_Winter_Olympics"
+    },
+    {
+      "year": "1968",
+      "number": "X",
+      "hostCity": "Grenoble",
+      "dates": "6–18 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1968_Winter_Olympics"
+    },
+    {
+      "year": "1964",
+      "number": "IX",
+      "hostCity": "Innsbruck",
+      "dates": "29 January – 9 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1964_Winter_Olympics"
+    },
+    {
+      "year": "1960",
+      "number": "VIII",
+      "hostCity": "Squaw Valley",
+      "dates": "18–28 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1960_Winter_Olympics"
+    },
+    {
+      "year": "1956",
+      "number": "VII",
+      "hostCity": "Cortina d'Ampezzo",
+      "dates": "26 January – 5 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1956_Winter_Olympics"
+    },
+    {
+      "year": "1952",
+      "number": "VI",
+      "hostCity": "Oslo",
+      "dates": "14–25 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1952_Winter_Olympics"
+    },
+    {
+      "year": "1948",
+      "number": "V",
+      "hostCity": "St. Moritz",
+      "dates": "30 January – 8 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1948_Winter_Olympics"
+    },
+    {
+      "year": "1944",
+      "number": "N/A II",
+      "hostCity": "Cortina d'Ampezzo",
+      "dates": "Cancelled due to World War II",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1944_Winter_Olympics"
+    },
+    {
+      "year": "1940",
+      "number": "N/A I",
+      "hostCity": "Sapporo",
+      "dates": "Cancelled due to World War II",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1940_Winter_Olympics"
+    },
+    {
+      "year": "1936",
+      "number": "IV",
+      "hostCity": "Garmisch-Partenkirchen",
+      "dates": "6–16 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1936_Winter_Olympics"
+    },
+    {
+      "year": "1932",
+      "number": "III",
+      "hostCity": "Lake Placid",
+      "dates": "4–15 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1932_Winter_Olympics"
+    },
+    {
+      "year": "1928",
+      "number": "II",
+      "hostCity": "St. Moritz",
+      "dates": "11–19 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1928_Winter_Olympics"
+    },
+    {
+      "year": "1924",
+      "number": "I",
+      "hostCity": "Chamonix",
+      "dates": "25 January – 5 February",
+      "wikipediaLink": "https://en.wikipedia.org/wiki/1924_Winter_Olympics"
+    }
+  ]
+}
