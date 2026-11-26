@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bubble Game Lab</string>
+    <string name="number_of_bubbles">Number of bubbles: %1$d</string>
+</resources>
