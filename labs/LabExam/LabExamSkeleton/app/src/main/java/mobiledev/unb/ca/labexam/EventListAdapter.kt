@@ -40,6 +40,9 @@ class EventListAdapter(
             // TODO
             //  Set the TextView text values to be the number and host city of the event
 
+            // Detach the recycled row's old listener first to refresh the list
+            visitedCheckbox.setOnCheckedChangeListener(null)
+
             // TODO: SharedPreferences
             //  Set the value of visitedCheckbox to be checked if the
             //  value stored in SharedPreferencesHelper for the number of this
